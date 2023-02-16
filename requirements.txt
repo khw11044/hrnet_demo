@@ -1,0 +1,10 @@
+opencv-python
+tqdm
+yacs
+scikit-image
+filterpy
+ipython
+einops
+numba
+matplotlib
+timm==0.4.5
